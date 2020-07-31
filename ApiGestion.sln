@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGestion", "ApiGestion\ApiGestion.csproj", "{8572C83A-0C7D-47F2-989A-C2103A3F8426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8572C83A-0C7D-47F2-989A-C2103A3F8426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8572C83A-0C7D-47F2-989A-C2103A3F8426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8572C83A-0C7D-47F2-989A-C2103A3F8426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8572C83A-0C7D-47F2-989A-C2103A3F8426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB20FB1-EFB6-4BA3-8C57-46C16E7CC9FA}
+	EndGlobalSection
+EndGlobal
